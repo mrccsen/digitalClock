@@ -1,0 +1,28 @@
+/*Css For Buttons*/
+.btn{
+    text-align: right;
+    background-color: aqua;
+    font-family: serif;
+    font-style: italic;
+    border-radius: 10px;
+    font-size: medium;
+}
+/*Css For İMG*/
+.img{
+    margin-top: 100px; 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 20%;
+}
+/*Css For Div One*/
+.div1{
+    text-align: center; 
+    margin: 0px; 
+}
+/*Css For Div Two*/
+.div2{
+    text-align: center; 
+    font-size: 100px; 
+    
+}
